@@ -11,7 +11,7 @@
 ## 🧑‍💻 &nbsp;About Me
 
 - 🎓 &nbsp;CS undergraduate at **DIICSU — Dundee International Institute of Central South University**
-- 🤖 &nbsp;Into **Embodied AI（具身智能）** & **LLMs（大模型）** — building agents that **perceive, reason and act**
+- 🤖 &nbsp;Into **Embodied AI** & **LLMs** — building agents that **perceive, reason and act**
 - 🕹️ &nbsp;Learning robot simulation with **MuJoCo** and **NVIDIA Isaac Sim**
 - 🧠 &nbsp;Studying **VLA (Vision-Language-Action)** models and **LLM-driven** robot policies
 - 💬 &nbsp;Always down to chat — robot learning, LLMs, or anything else you're into
