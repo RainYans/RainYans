@@ -11,7 +11,7 @@
 ## 🧑‍💻 &nbsp;About Me
 
 - 🎓 &nbsp;I am a senior undergraduate in **Computer Science** at the **Dundee International Institute of Central South University (DIICSU)**.
-- 🚀 &nbsp;Starting in Fall 2027, I will be a graduate student at the **School of Software Technology, Zhejiang University**, under the supervision of [Prof. Ningyu Zhang](https://person.zju.edu.cn/ningyu).
+- 🚀 &nbsp;Starting in Fall 2027, I will be a graduate student at the **School of Software Technology, Zhejiang University**.
 - 🤖 &nbsp;I am currently exploring **embodied AI**, with a particular interest in **embodied agents**.
 - 📫 &nbsp;You can reach me at **yanshuoliu05@gmail.com**.
 
