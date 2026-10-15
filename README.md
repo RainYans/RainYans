@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Yanshuo Liu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=620&lines=Senior+CS+Undergraduate;Incoming+Graduate+Student+at+Zhejiang+University;Exploring+Embodied+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Senior+CS+Undergraduate;Incoming+Graduate+Student+at+Zhejiang+University;Exploring+Embodied+Agents" alt="Typing SVG" />
 </p>
 
 ## 🧑‍💻 &nbsp;About Me
@@ -13,7 +13,7 @@
 - 🎓 &nbsp;I am a senior undergraduate in **Computer Science** at the **Dundee International Institute of Central South University (DIICSU)**.
 - 🚀 &nbsp;Starting in Fall 2027, I will be a graduate student at the **School of Software Technology, Zhejiang University**.
 - 🤖 &nbsp;I am currently exploring **embodied AI**, with a particular interest in **embodied agents**.
-- 📫 &nbsp;You can reach me at **yanshuoliu05@gmail.com**.
+- 📫 &nbsp;You can reach me at **yanshuoliu05 [at] gmail [dot] com**.
 
 <br/>
 
